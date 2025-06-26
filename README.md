@@ -1,3 +1,5 @@
+![Tsuki no Kōdo Banner](https://github.com/jpizarroc99/jpizarroc99/blob/main/tsuki_no_kodo.png)
+
 # Hola soy Javi! 👋
 🌱 Estoy dando mis primeros pasos como desarrolladora y aprendiendo todo lo que puedo sobre desarrollo web y programación orientada a objetos. Me gusta crear cosas desde lo simple, entender cómo funcionan por dentro y encontrarle sentido al código.
 
