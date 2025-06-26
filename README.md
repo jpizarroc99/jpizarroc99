@@ -16,4 +16,4 @@ Java, HTML, CSS, lógica de programación y cómo organizar mejor mis ideas al p
 cómo ha sido comenzar en este mundo sin experiencia previa, o sobre cómo estoy combinando esto con mi vida personal.
 
 ⚡️ Dato random,
-me encanta el anime, los gatos, la fotografía, el cielo y la música tranquila para concentrarme mientras estudio o programo.
+me encanta el anime, los gatos 🐈, la fotografía, la luna 🌙, y la música tranquila para concentrarme mientras estudio o programo.
