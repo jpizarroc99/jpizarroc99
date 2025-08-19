@@ -17,3 +17,5 @@ cómo ha sido comenzar en este mundo sin experiencia previa, o sobre cómo estoy
 
 ⚡️ Dato random,
 me encanta el anime, los gatos 🐈, la fotografía, la luna 🌙, y la música tranquila para concentrarme mientras estudio o programo.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JPIZARROC99%F0%9F%8C%99%F0%9F%92%BB%F0%9F%90%88&theme=buefy-dark&locale=es)](https://git.io/streak-stats)
